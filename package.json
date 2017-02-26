@@ -82,7 +82,7 @@
   },
   "peerDependencies": {
     "react-native": "^0.25",
-    "react": "*"
+    "react": "^0.14.5"
   },
   "devDependencies": {
     "babel-cli": "^6.0.0",
