@@ -1,6 +1,6 @@
 {
   "name": "react-native-drawer-layout-polyfill",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A polyfill for React Natives DrawerLayoutAndroid",
   "main": "dist/index.js",
   "scripts": {
@@ -81,8 +81,8 @@
     "react-native-drawer-layout": "~1.1.5"
   },
   "peerDependencies": {
-    "react-native": ">= 0.25",
-    "react": ">= 0.14.5"
+    "react-native": "*",
+    "react": "*"
   },
   "devDependencies": {
     "babel-cli": "^6.0.0",
