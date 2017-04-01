@@ -78,7 +78,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "react-native-drawer-layout": "~1.1.5"
+    "react-native-drawer-layout": "1.2.0-0"
   },
   "peerDependencies": {
     "react-native": "*",
