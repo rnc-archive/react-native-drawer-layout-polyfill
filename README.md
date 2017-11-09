@@ -27,6 +27,10 @@ If you experience any further restrictions with other versions, please let us kn
 
 ## Release Notes
 
+### 2.0
+
+- Update [`react-native-drawer-layout`](https://github.com/react-native-community/react-native-drawer-layout) to version 2.0, support for only for RN >= 0.35
+
 ### 1.0
 
 - Moved from [`react-native-drawer-layout`](https://github.com/react-native-community/react-native-drawer-layout)
