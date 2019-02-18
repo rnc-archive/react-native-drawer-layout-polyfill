@@ -81,7 +81,8 @@
     "react-native-drawer-layout": "2.0.0"
   },
   "peerDependencies": {
-    "react-native": ">= 0.35"
+    "react-native": ">= 0.35",
+    "react": "*"
   },
   "devDependencies": {
     "babel-cli": "^6.0.0",
